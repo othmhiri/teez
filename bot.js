@@ -10,7 +10,7 @@ client.on('ready', async() => {
 var server = "565552368712810506"; // ايدي السررفر
 var channel = "565552368712810508";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**Hentai , Hentai ,Hentai ,Hentai ,Hentai ,Hentai ,Hentai ,Hentai ,Hentai ,Hentai ,Hentai ,Hentai ,Hentai ,Hentai ,Hentai , **')
+    client.guilds.get(server).channels.get(channel).send('**Hentai , Hentai ,Hentai ,Hentai ,Hentai ,Hentai ,Hentai ,Hentai ,Hentai ,Hentai ,Hentai ,Hentai,Hentai,Hentai,Hentai,Hentai ,Hentai ,Hentai ,Hentai , **')
     },305);
 })
 
